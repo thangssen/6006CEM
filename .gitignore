@@ -1,0 +1,6 @@
+__pycache__
+
+.vscode
+
+datasets/mnist_train.csv
+datasets/mnist_test.csv
